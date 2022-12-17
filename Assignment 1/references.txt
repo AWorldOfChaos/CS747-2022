@@ -1,0 +1,2 @@
+1. geeks for geeks page for binary search
+https://www.geeksforgeeks.org/python-program-for-binary-search/
